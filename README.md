@@ -1,6 +1,7 @@
 ﻿# machine-test
 This repository is a collection of mini projects designed to help you prepare for frontend interviews. Each project is carefully crafted to test your understanding of core frontend concepts and technologies.
-PROJECT 1:todoApp(vanila js)
+
+$ PROJECT 1:todoApp(vanila js)
 
 
 
